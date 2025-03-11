@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('/public/books.jpg');
+  background-image: url('https://www.google.com/imgres?q=books&imgurl=https%3A%2F%2Fth-thumbnailer.cdn-si-edu.com%2FsWf0xF1il7OWYO8j-PGqwBvxTAE%3D%2F1000x750%2Ffilters%3Ano_upscale()%3Afocal(2550x1724%3A2551x1725)%2Fhttps%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F9a%2Fd7%2F9ad71c28-a69d-4bc0-b03d-37160317bb32%2Fgettyimages-577674005.jpg&imgrefurl=https%3A%2F%2Fwww.smithsonianmag.com%2Fsmart-news%2Fwhos-behind-the-push-to-ban-books-in-schools-180980818%2F&docid=ccg8MqMhhlBpiM&tbnid=oe0RVtft7p-IyM&vet=12ahUKEwi95IytgYGMAxX2VTABHT-qDEgQM3oFCIgBEAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwi95IytgYGMAxX2VTABHT-qDEgQM3oFCIgBEAA');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
