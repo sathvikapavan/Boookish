@@ -16,4 +16,4 @@ A web-based platform for book enthusiasts to upload eBooks, collaborate on annot
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sathvikapavan/bookishh.git
+   git clone [https://github.com/sathvikapavan/Boookish.git]
