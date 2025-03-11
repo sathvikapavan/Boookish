@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload - Bookishh</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <div>
+      <a href="home.html">Home</a>
+      <a href="upload.html">Upload</a>
+      <a href="library.html">Library</a>
+      <a href="annotations.html">Annotations</a>
+      <a href="notifications.html">Notifications</a>
+    </div>
+    <div>
+      <a href="library.html">Library</a>
+    </div>
+  </nav>
+  <div class="container">
+    <h1>Upload eBook</h1>
+    <label for="fileInput">Choose file:</label>
+    <input type="file" id="fileInput" title="Choose file">
+    <input type="text" id="bookTitle" placeholder="Book Title">
+    <button onclick="handleUpload()">Upload</button>
+    <p id="uploadStatus" style="color: green; display: none;">File uploaded successfully!</p>
+  </div>
+  <script src="js/upload.js"></script>
+</body>
+</html>
